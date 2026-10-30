@@ -1,0 +1,26 @@
+[
+    {
+        "device_id": "DEV_A",
+        "total_records": 5,
+        "average_temperature": 45.12,
+        "error_count": 0
+    },
+    {
+        "device_id": "DEV_B",
+        "total_records": 5,
+        "average_temperature": 71.2,
+        "error_count": 2
+    },
+    {
+        "device_id": "DEV_D",
+        "total_records": 4,
+        "average_temperature": 33.0,
+        "error_count": 0
+    },
+    {
+        "device_id": "DEV_E",
+        "total_records": 4,
+        "average_temperature": 62.0,
+        "error_count": 2
+    }
+]
